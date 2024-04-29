@@ -1,0 +1,10 @@
+Create a Banking application which will have a Welcome message with user name and will give five options to user which are
+1. Check Balance
+2. Deposit
+3. Withdraw
+4. Exit
+
+
+Check Balance
+- two accounts Chequeing and Savings accounts
+- return balance for two accounts
